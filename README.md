@@ -73,4 +73,5 @@ GENERATE FROM 3D-Sketch
 | 21/04/2022 | Beta-testing. Holds a human Work on Design Docs | Work on 3D sketch & Design Doc          |
 | 22/04/2022 | Start Design Doc                                | 3D Sketch                               |
 | 25/04/2022 | 3D Sketch - many-brace side                     | 3D Sketch single-brace side             |
-| 26/04/2022 | 3D Sketch - finished                            | Assembly                                |
+| 26/04/2022 | 3D Sketch (parts) - finished                    | Assembly start                          |
+| 27/04/2022 | Assembly (all - long braces)                    | Assembly long braces                    |
