@@ -4,10 +4,10 @@
 * [Brainstorming/Research](#brainstormingresearch)
 * [Planning](#planning)
 * [Fabrication](#fabrication)
-* Build Schedule
-* Evaluation
-* Innovation
-* Formal Drawing
+* [Build Schedule]
+* [Evaluation]
+* [Innovation]
+* [Formal Drawing]
 
 ## Brainstorming/Research
 ### Basic Design Description
@@ -75,3 +75,8 @@ GENERATE FROM 3D-Sketch
 | 25/04/2022 | 3D Sketch - many-brace side                     | 3D Sketch single-brace side             |
 | 26/04/2022 | 3D Sketch (parts) - finished                    | Assembly start                          |
 | 27/04/2022 | Assembly (all - long braces)                    | Assembly long braces                    |
+| 29/04/2022 | Fix leveling on tower                           | Design Doc                              |
+| 02/05/2022 | Design Doc -- Tools                             | Design Doc                              |
+| 03/05/2022 | Design Doc -- Safety                            | Testing                                 |
+| 04/05/2022 | Testing                                         | Design Doc                              |
+| 05/05/2022 | Design Doc -- Evaluation, Innovation            | Design Doc Fabrication                  |
