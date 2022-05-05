@@ -4,10 +4,10 @@
 * [Brainstorming/Research](#brainstormingresearch)
 * [Planning](#planning)
 * [Fabrication](#fabrication)
-* [Build Schedule]
-* [Evaluation]
-* [Innovation]
-* [Formal Drawing]
+* [Build Schedule](#build-schedule)
+* [Evaluation](#evaluation)
+* [Innovation](#innovation)
+* [Formal Drawing](#formal-drawing)
 
 ## Brainstorming/Research
 ### Basic Design Description
@@ -80,3 +80,12 @@ GENERATE FROM 3D-Sketch
 | 03/05/2022 | Design Doc -- Safety                            | Testing                                 |
 | 04/05/2022 | Testing                                         | Design Doc                              |
 | 05/05/2022 | Design Doc -- Evaluation, Innovation            | Design Doc Fabrication                  |
+
+### Evaluation
+Tower Weight: 1.75lbs  
+Mass weight tested: 235 lbs  
+### Innovation
+* Make better tower prosthetics
+* Make angles easier to cut and draw
+* 5&deg; angle unnecesary - could make the sides vertical
+### Formal Drawing
