@@ -21,7 +21,17 @@ The cross-bracing is simplified to only go up one diagonal instead of making an 
 ![Third Design](0003.jpg)
 ## Planning
 ### Cutlist
-GENERATE FROM 3D-Sketch
+| Piece ID | Qty. | Material | Size | Additional Notes |
+| -------- | ---- | -------- | ---- | ---------------- |
+| 0 | 4    | White pine 3/4" thickness | 3/4" x 3/4" x 6.5" | N/A |
+| 2 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x ~24.163" | Cut ends at 75&deg; |
+| 3 | 4    | White pine 3/4" thickness | 3/4" x 3/4" x 25" | Start with 25" piece then cut ends at 5&deg;. Make cutouts at the top to fit top piece (ID 7.|
+| 4 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 6.5" | Start with 6.5" piece then cut ends at 5&deg; |
+| 5 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x ~4.83" | Start with 4.83" piece then cut ends at 5&deg; |
+| 6 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 3.685" | Start with 3.685" piece then cut ends at 5&deg; |
+| 7 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 3.038" | Start with 3.038" piece then cut ends at 5&deg; |
+| 8 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 7.558" | Start with a piece then cut ends at 73.575&deg;. Then side length should be 7.558"|
+| 9 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 6.698" | Start with a piece then cut ends at 60.199&deg;. Then side length should be 6.698"|
 ### Tools
 * 3/4" x 3/4" x ??" Material Preparation
   * Table Saw
