@@ -92,6 +92,7 @@ The cross-bracing is simplified to only go up one diagonal instead of making an 
 | 05/05/2022 | Design Doc -- Evaluation, Innovation            | Design Doc Fabrication                  |
 
 ### Evaluation
+![Tower with 235lbs on it...](1034.jpg)
 Tower Weight: 1.75lbs  
 Mass weight tested: 235 lbs  
 ### Innovation
