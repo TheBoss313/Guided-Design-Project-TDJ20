@@ -90,7 +90,7 @@ The cross-bracing is simplified to only go up one diagonal instead of making an 
 | 03/05/2022 | Design Doc -- Safety                            | Testing                                 |
 | 04/05/2022 | Testing                                         | Design Doc                              |
 | 05/05/2022 | Design Doc -- Evaluation, Innovation            | Design Doc Fabrication                  |
-
+| 06/05/2022 | Design Doc -- IoT, Cutlist                      | Design Doc Formal Drawing, OoO          |
 ### Evaluation
 ![Tower with 235lbs on it...](IMG_3024.jpg)
 Tower Weight: 1.75lbs  
