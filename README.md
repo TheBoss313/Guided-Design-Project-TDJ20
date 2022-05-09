@@ -108,3 +108,4 @@ Mass weight tested: 235 lbs
 * Make angles easier to cut and draw
 * 5&deg; angle unnecesary - could make the sides vertical
 ### Formal Drawing
+![Formal Drawing](Technical%20Drawing.jpeg)
