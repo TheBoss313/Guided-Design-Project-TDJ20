@@ -27,7 +27,7 @@ The cross-bracing is simplified to only go up one diagonal instead of making an 
 | 2 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x ~24.163" | Cut ends at 75&deg; |
 | 3 | 4    | White pine 3/4" thickness | 3/4" x 3/4" x 25" | Start with 25" piece then cut ends at 5&deg;. Make cutouts at the top to fit top piece (ID 7.|
 | 4 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 6.5" | Start with 6.5" piece then cut ends at 5&deg; |
-| 5 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x ~4.83" | Start with 4.83" piece then cut ends at 5&deg; |
+| 5 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 4.83" | Start with 4.83" piece then cut ends at 5&deg; |
 | 6 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 3.685" | Start with 3.685" piece then cut ends at 5&deg; |
 | 7 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 3.038" | Start with 3.038" piece then cut ends at 5&deg; |
 | 8 | 2    | White pine 3/4" thickness | 3/4" x 3/4" x 7.558" | Start with a piece then cut ends at 73.575&deg;. Then side length should be 7.558"|
@@ -63,6 +63,14 @@ The cross-bracing is simplified to only go up one diagonal instead of making an 
  * Noise (Everything, children in particular)
  ## Fabrication
 ### Order of Operations
+1. Take pieces 3, 7, 4 and put them together with glue and nails. 2 pieces (3) are connected by a 7, and a 4. The 7 goes into the cutout at the top of 3, 4 connects between the very bottoms of 3s. there should now be 2 trapezoids.
+2. Take the trapezoids and 6 and put 6 as high up as it will go in the trapezoid, parallel to 7 and 4. Glue and nail.
+3. Repeat step 2 with piece 5 instead of 4.
+4. Piece 8 goes in between the top two horisontals in the trapezoid. Glue and nail.
+5. Piece 9 goes in between the middle two horizontals. Glue and nail.
+6. Connect the two trapezoids together to create a truncated pyramid. Connect at the corners with piece 0s. Glue and nail.
+7. Put piece 2s in between piece 0s (paird by side of pyramid). Sand if neccesary. Glue and nail.
+8. Sand & level tower by using small thin bits of wood.
 ### Build Schedule
 | Date       | What I completed today                          | What I will work on tomorrow            |
 |------------|-------------------------------------------------|-----------------------------------------|
